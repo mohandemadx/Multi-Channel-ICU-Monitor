@@ -31,5 +31,6 @@ Monitoring vital signals is crucial in any ICU room. This desktop application, d
 - Single or multi-page reports for different signal and snapshot scenarios.
 
 ## Demo
+![watch demo]()
 ## Contribution 
 
