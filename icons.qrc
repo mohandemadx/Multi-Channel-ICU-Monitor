@@ -1,0 +1,15 @@
+<RCC>
+  <qresource>
+    <file>icons/fast-backward.png</file>
+    <file>icons/fast-forward.png</file>
+    <file>icons/radio-waves.png</file>
+    <file>icons/snapshot.png</file>
+    <file>icons/sync.png</file>
+    <file>icons/zoom-in.png</file>
+    <file>icons/rewind.png</file>
+    <file>icons/recycle-bin.png</file>
+    <file>icons/magnifying-glass.png</file>
+    <file>icons/folder.png</file>
+    <file>icons/button.png</file>
+  </qresource>
+</RCC>
