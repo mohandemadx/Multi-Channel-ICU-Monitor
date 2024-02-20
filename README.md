@@ -31,6 +31,24 @@ Monitoring vital signals is crucial in any ICU room. This desktop application, d
 - Single or multi-page reports for different signal and snapshot scenarios.
 
 ## Demo
-![watch demo]()
-## Contribution 
+![watch demo](https://github.com/Habiba-Mohsen/Multi-Channel-Signal-Viewer/blob/main/assets/Untitled%20video%20-%20Made%20with%20Clipchamp%20(5).gif)
+
+## Contributors
+ <a href="https://github.com/Habiba-Mohsen">
+    <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="Habiba Mohsen">
+  </a>
+  <a href="https://github.com/mohandemadx">
+    <img src="https://github.com/mohandemadx.png" width="100px" alt="Mohand Emad">
+  </a>
+
+## Acknowledgments
+
+**This project was supervised by Dr. Tamer Basha & Eng. Abdallah Darwish, who provided invaluable guidance and expertise throughout its development as a part of the Digital Signal Processing course at Cairo University Faculty of Engineering.**
+
+<div style="text-align: right">
+    <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
+</div>
+
+---
+
 
