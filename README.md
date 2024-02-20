@@ -29,4 +29,7 @@ Monitoring vital signals is crucial in any ICU room. This desktop application, d
 - Generate PDF contents programmatically.
 - Include mean, std, duration, min, and max values in a well-organized table.
 - Single or multi-page reports for different signal and snapshot scenarios.
+
+## Demo
 ## Contribution 
+
