@@ -1,4 +1,4 @@
-# Multi-Port, Multi-Channel Signal Viewer
+# Multi-Port, Multi-Channel ICU Monitor
 
 ## Introduction
 Monitoring vital signals is crucial in any ICU room. This desktop application, developed using Python and Qt, allows users to visualize multi-port, multi-channel signals with various features.
